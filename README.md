@@ -60,7 +60,7 @@ This project is licensed under the MIT License.
 
 This repository proposes an implementation of an AI-Coach model using the MediaPipe library for landmark extraction and Dynamic Time Warping (DTW) as a similarity metric between actions.
 
-<iframe width="560" height="315" src="Gym Exercise Animations.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://drive.google.com/file/d/1brIkLg-iQ4D7IrK-qqroGpiPIfOJuqcz/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
 
 
 
