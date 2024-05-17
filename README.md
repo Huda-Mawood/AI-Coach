@@ -62,6 +62,9 @@ This repository proposes an implementation of an AI-Coach model using the MediaP
 
 [![Watch the video](https://img.youtube.com/vi/fPvvF1HsuJc/maxresdefault.jpg)](https://youtu.be/fPvvF1HsuJc?si=ffZsl-H7Em7UQdXt)
 
+[![Watch the video](https://img.youtube.com/vi/uedp3CnXWmM/maxresdefault.jpg)](https://youtu.be/uedp3CnXWmM?si=G3cSrJudzrDUsnq4)
+
+
 
 
 
