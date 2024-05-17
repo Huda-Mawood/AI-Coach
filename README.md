@@ -50,7 +50,7 @@ To use the AI-Coach system:
 
 2.Navigate to the project directory in the VS Code terminal:
 
- cd AI-Coach
+ cd AI-Coach.
 
 ## Contributing
 Fork the repository.
